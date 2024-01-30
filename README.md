@@ -1,16 +1,19 @@
-# Sentiment Scope
-A tool for detailed sentiment analysis in texts, implementing algorithms from the Natural Language Toolkit (NLTK) and spaCy.
+# SentimentScope
 
-All changes Revert 
-# git reset --hard id
+SentimentScope is a tool for detailed sentiment analysis in texts, implementing algorithms from the Natural Language Toolkit (NLTK), spaCy, lexicon-based analysis, and machine learning classifiers.
 
-# git commit --amend
- is used to make changes to commits after-the-fact, which can be useful for making notes about a given commit.
-also merge previous commit 
-# git revert 
- makes a new commit which effectively rolls back a previous commit. It’s a bit like an undo command.
-# git revert Head
-simply undo changes
-# git log --graph --oneline
-show beautiful logs and previous commits 
-# git log --graph --oneline --all
+## Overview
+
+Sentiment analysis, also known as opinion mining, is the process of determining the sentiment expressed in a piece of text, whether it is positive, negative, or neutral. SentimentScope provides a comprehensive solution for analyzing sentiment in texts using various techniques and libraries.
+
+## Features
+
+- Sentiment analysis using NLTK (Natural Language Toolkit)
+- Sentiment analysis using spaCy
+- Lexicon-based sentiment analysis
+- Sentiment analysis using machine learning classifiers
+- Text preprocessing utilities
+- Data loading and management
+- Data visualization of sentiment distribution
+- User interaction and interface through a command-line interface (CLI)
+- Model evaluation metrics for performance assessment
