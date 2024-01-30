@@ -1,4 +1,3 @@
-
 import nltk
 
 class NLTKAnalyzer:
