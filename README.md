@@ -1,4 +1,5 @@
-# GitubCOmmands
+# Sentiment Scope
+A tool for detailed sentiment analysis in texts, implementing algorithms from the Natural Language Toolkit (NLTK) and spaCy.
 
 All changes Revert 
 # git reset --hard id
