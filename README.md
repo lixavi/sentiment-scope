@@ -1,4 +1,4 @@
-# SentimentScope
+# Sentiment Scope
 
 SentimentScope is a tool for detailed sentiment analysis in texts, implementing algorithms from the Natural Language Toolkit (NLTK), spaCy, lexicon-based analysis, and machine learning classifiers.
 
